@@ -1,0 +1,4 @@
+1) need 30 GB free space
+2) Torch problem for GPU:
+pip uninstall torch torchvision
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
